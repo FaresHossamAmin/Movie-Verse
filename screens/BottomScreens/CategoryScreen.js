@@ -54,7 +54,7 @@ const CategoryScreen = ({ route }) => {
         showsVerticalScrollIndicator={false}
         initialNumToRender={4}
         maxToRenderPerBatch={6}
-        windowSize={7}
+        windowSize={1}
         contentContainerStyle={styles.listContent}
       />
     </View>

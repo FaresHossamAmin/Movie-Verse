@@ -23,7 +23,7 @@ const GenresScreen = () => {
         contentContainerStyle={styles.horizontalList}
         initialNumToRender={3}
         maxToRenderPerBatch={5}
-        windowSize={5}
+        windowSize={1}
         removeClippedSubviews={true}
       />
     </View>
